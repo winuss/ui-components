@@ -27,3 +27,7 @@ shadcn components
 - npx shadcn-ui@latest add badge
 - npx shadcn-ui@latest add button
 - npx shadcn-ui@latest add skeleton
+
+# shadcn/ui
+
+tailwind기반의 재사용 가능한 컴포넌트들의 모음
