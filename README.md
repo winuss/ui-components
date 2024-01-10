@@ -26,3 +26,4 @@ shadcn components
 - npx shadcn-ui@latest add avata
 - npx shadcn-ui@latest add badge
 - npx shadcn-ui@latest add button
+- npx shadcn-ui@latest add skeleton
