@@ -7,9 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "dev:db": "json-server data/db.json --port=8888"
+    "db": "json-server data/db.json --port=8888",
+    "dev:db": "npm run dev && npm run db"
   },
   "dependencies": {
+    "@radix-ui/react-avatar": "^1.0.4",
+    "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "lucide-react": "^0.307.0",
